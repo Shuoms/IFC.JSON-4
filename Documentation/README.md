@@ -1,6 +1,5 @@
 # IFC.JSON Specification
 This is the overall specification for IFC.JSON.
-my name is shuo
 ## Table of Contents
   * [1. Overview](#1-overview)
     + [1.1 Objectives](#11-objectives)
